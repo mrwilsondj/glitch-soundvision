@@ -71,6 +71,7 @@ body {
   position: relative;
   width: 400px;
   margin: 0 auto;
+  opacity: .2;
 }
 
 @-webkit-keyframes noise-anim {
